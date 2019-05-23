@@ -1,4 +1,3 @@
-# python 3.6.8
 import os
 import sys
 import tarfile
